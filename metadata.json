@@ -1,0 +1,5 @@
+{
+  "name": "Reel Generator",
+  "description": "Crie vídeos curtos para Reels usando Remotion.",
+  "requestFramePermissions": []
+}
